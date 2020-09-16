@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">
     This repo is my attempt to jump start my skills into the quantum computer world. I am a firm believer in mentorship, therefore I am seeking for a good mentors to provide me with some guidance on this field. This program provide basically that.
 </p>
 
